@@ -201,3 +201,17 @@ Returns:
 - Checkout is mock; no real payments.
 
 ---
+
+## 6. Screenshots
+
+### Home Page
+
+![Home](./docs/screenshots/home.png)
+
+### Cart Page
+
+![Cart](./docs/screenshots/cart.png)
+
+### Checkout Page
+
+![Checkout](./docs/screenshots/checkout.png)
