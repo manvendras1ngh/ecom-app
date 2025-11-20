@@ -15,7 +15,23 @@ This application supports:
 
 ---
 
-## 1. Project Structure
+## 1. Screenshots
+
+### Home Page
+
+![Home](./docs/screenshots/home.png)
+
+### Cart Page
+
+![Cart](./docs/screenshots/cart.png)
+
+### Checkout Page
+
+![Checkout](./docs/screenshots/checkout.png)
+
+---
+
+## 2. Project Structure
 
 ```
 root/
@@ -38,7 +54,7 @@ root/
 
 ---
 
-## 2. Installation and Setup
+## 3. Installation and Setup
 
 ### Step 1: Clone Repository
 
@@ -91,7 +107,7 @@ Application will be available at:
 
 ---
 
-## 3. API Endpoints
+## 4. API Endpoints
 
 All endpoints are prefixed with `/api`.
 
@@ -169,7 +185,7 @@ Returns:
 
 ---
 
-## 4. Frontend Overview
+## 5. Frontend Overview
 
 ### Routes
 
@@ -193,7 +209,7 @@ Returns:
 
 ---
 
-## 5. Development Notes
+## 6. Development Notes
 
 - Both frontend and backend must be running.
 - Quantity adjustment uses `POST /api/cart` with positive or negative qty.
@@ -201,17 +217,3 @@ Returns:
 - Checkout is mock; no real payments.
 
 ---
-
-## 6. Screenshots
-
-### Home Page
-
-![Home](./docs/screenshots/home.png)
-
-### Cart Page
-
-![Cart](./docs/screenshots/cart.png)
-
-### Checkout Page
-
-![Checkout](./docs/screenshots/checkout.png)
